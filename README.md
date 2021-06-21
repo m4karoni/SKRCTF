@@ -13,7 +13,7 @@ Flag format: SKR{flag_flag}
 !["Header and body"](https://user-images.githubusercontent.com/70287409/122788142-9f318380-d2e8-11eb-8f8e-ba98d1f4837a.png)
 <br/><br/>
 My first action is to inspect the webpage for the flag:<br/>
-["Inpect element"](https://user-images.githubusercontent.com/70287409/122788412-e455b580-d2e8-11eb-89ab-e08f7739cd0d.png)
+!["Inpect element"](https://user-images.githubusercontent.com/70287409/122788412-e455b580-d2e8-11eb-89ab-e08f7739cd0d.png)
 <br/><br/>
 Just like that, I got the flag!
 > Flag: SKR{imp0rt4nt_c0mm3nt_a24996}
