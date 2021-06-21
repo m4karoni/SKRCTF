@@ -9,7 +9,7 @@ Can you find the flag in this website?
 <br/><br/>
 Flag format: SKR{flag_flag}
 <br/><br/>
-"At first, it shows a simple html header and a body:"<br/>
+At first, it shows a simple html header and a body:<br/>
 !["Header and body"](https://user-images.githubusercontent.com/70287409/122788142-9f318380-d2e8-11eb-8f8e-ba98d1f4837a.png)
 <br/><br/>
 My first action is to inspect the webpage for the flag:<br/>
