@@ -1,9 +1,9 @@
 # Welcome to m4karoni SKRCTF write-ups
 Hi! This is my first ever write-up for challenges based on my senior's CTF project, [skrctf.me](skrctf.me) which is a ctf site for beginner players.
 
-## Web
+# Web
 
-### Web warmup
+## Web warmup
 
 Can you find the flag in this website?
 <br/><br/>
@@ -20,8 +20,8 @@ Flag format: SKR{flag_flag}
 Just like that, I got the flag!
 > Flag: SKR{imp0rt4nt_c0mm3nt_a24996}
 
-
-<br/><br/> ### Where is the flag?
+<br/><br/>
+## Where is the flag?
 I remember that I put a flag in this website, but I just can't find it. Can you help me?
 <br/><br/>
 Flag format: SKR{flag_flag}
