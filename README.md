@@ -12,8 +12,8 @@ Flag format: SKR{flag_flag}
 <br />
 <br />
 "At first, it shows a simple html header and a body:"
-\
-\
+<br />
+<br />
 !["Header and body"](https://user-images.githubusercontent.com/70287409/122788142-9f318380-d2e8-11eb-8f8e-ba98d1f4837a.png)
 \
 \
@@ -29,9 +29,9 @@ Just like that, I got the flag!
 
 ## Where is the flag?
 I remember that I put a flag in this website, but I just can't find it. Can you help me?
-\
+<br />
 Flag format: SKR{flag_flag}
-\
+<br />
 As hinted in the image, "It's too bright"
 \
 \
