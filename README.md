@@ -1,9 +1,9 @@
 # Welcome to m4karoni SKRCTF write-ups
 Hi! This is my first ever write-up for challenges based on my senior's CTF project, [skrctf.me](skrctf.me) which is a ctf site for beginner players.
 
-# Web
+## Web
 
-## Web warmup
+### Web warmup
 
 Can you find the flag in this website?
 <br />
@@ -26,8 +26,8 @@ Flag format: SKR{flag_flag}
 Just like that, I got the flag!
 > Flag: SKR{imp0rt4nt_c0mm3nt_a24996}
 
-<br />
-## Where is the flag?
+
+### Where is the flag?
 I remember that I put a flag in this website, but I just can't find it. Can you help me?
 <br />
 <br />
@@ -45,6 +45,6 @@ As hinted in the image, "It's too bright"
 \
 !["Inspect css"](https://user-images.githubusercontent.com/70287409/122789167-98efd700-d2e9-11eb-8de5-015e963d5d9c.png)
 \
->Flag: SKR{wh0_turn_th3_light5_0n?\_10621b}
+> Flag: SKR{wh0_turn_th3_light5_0n?\_10621b}
 
 
