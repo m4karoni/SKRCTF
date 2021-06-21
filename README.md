@@ -7,7 +7,9 @@ Hi! This is my first ever write-up for challenges based on my senior's CTF proje
 
 Can you find the flag in this website?
 <br />
+<br />
 Flag format: SKR{flag_flag}
+<br />
 <br />
 "At first, it shows a simple html header and a body:"
 \
