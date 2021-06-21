@@ -27,7 +27,7 @@ Flag format: SKR{flag_flag}
 As hinted in the image, "It's too bright"<br/>
 !["Header and body"](https://user-images.githubusercontent.com/70287409/122788945-647c1b00-d2e9-11eb-948a-5fb9bd5d0e1e.png)
 <br/><br/>
-"So I have an idea of looking into the css file of the site."<br/>
+So I have an idea of looking into the css file of the site.<br/>
 !["Inspect css"](https://user-images.githubusercontent.com/70287409/122789167-98efd700-d2e9-11eb-8de5-015e963d5d9c.png)
 <br/><br/>
 > Flag: SKR{wh0_turn_th3_light5_0n?\_10621b}
