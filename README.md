@@ -6,9 +6,9 @@ Hi! This is my first ever write-up for challenges based on my senior's CTF proje
 ## Web warmup
 
 Can you find the flag in this website?
-\\
+\
 Flag format: SKR{flag_flag}
-\\
+\
 "At first, it shows a simple html header and a body:"
 \
 \
