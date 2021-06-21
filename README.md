@@ -10,12 +10,10 @@ Can you find the flag in this website?
 Flag format: SKR{flag_flag}
 <br/><br/>
 "At first, it shows a simple html header and a body:"
-<br/><br/>
 !["Header and body"](https://user-images.githubusercontent.com/70287409/122788142-9f318380-d2e8-11eb-8f8e-ba98d1f4837a.png)
 <br/><br/>
-"My first action is to inspect the webpage for the flag:"
-<br/><br/>
-!["Inpect element"](https://user-images.githubusercontent.com/70287409/122788412-e455b580-d2e8-11eb-89ab-e08f7739cd0d.png)
+My first action is to inspect the webpage for the flag:
+["Inpect element"](https://user-images.githubusercontent.com/70287409/122788412-e455b580-d2e8-11eb-89ab-e08f7739cd0d.png)
 <br/><br/>
 Just like that, I got the flag!
 > Flag: SKR{imp0rt4nt_c0mm3nt_a24996}
@@ -27,11 +25,9 @@ I remember that I put a flag in this website, but I just can't find it. Can you 
 Flag format: SKR{flag_flag}
 <br/><br/>
 As hinted in the image, "It's too bright"
-<br/><br/>
 !["Header and body"](https://user-images.githubusercontent.com/70287409/122788945-647c1b00-d2e9-11eb-948a-5fb9bd5d0e1e.png)
 <br/><br/>
 "So I have an idea of looking into the css file of the site."
-<br/><br/>
 !["Inspect css"](https://user-images.githubusercontent.com/70287409/122789167-98efd700-d2e9-11eb-8de5-015e963d5d9c.png)
 <br/><br/>
 > Flag: SKR{wh0_turn_th3_light5_0n?\_10621b}
