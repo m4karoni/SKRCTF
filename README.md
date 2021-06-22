@@ -32,4 +32,18 @@ So I have an idea of looking into the css file of the site.<br/>
 <br/><br/>
 > Flag: SKR{wh0_turn_th3_light5_0n?\_10621b}
 
+<br/><br/>
+## My First SQL
+I made a website with login using PHP and MySQL! Feel free to try it
+<br/><br/>
+The challenge is about SQLi (SQL injection) attack<br/>
+![image](https://user-images.githubusercontent.com/70287409/122853262-8656bb80-d344-11eb-8042-c0c2720318f3.png)
+<br/><br/>
+Using a simple sql injection payload
+> ' OR '1' = '1
+
+<br/><br/>
+![image](https://user-images.githubusercontent.com/70287409/122853643-2280c280-d345-11eb-9e95-9fefd7f41fb8.png)
+<br/><br/>
+> Flag: SKR{Do_not_forget_to_escape_user_input_c75983}
 
