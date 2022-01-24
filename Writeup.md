@@ -41,6 +41,8 @@ The challenge is about SQLi (SQL injection) attack<br/>
 <br/><br/>
 Using a simple sql injection payload
 > ' OR '1' = '1
+> https://ctflearn.com/lab/SQL-Injection-Part-1
+> This site provides clear explanation on basics of SQL injection techniques
 
 <br/><br/>
 ![image](https://user-images.githubusercontent.com/70287409/122853643-2280c280-d345-11eb-9e95-9fefd7f41fb8.png)
