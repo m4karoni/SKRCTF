@@ -40,8 +40,8 @@ The challenge is about SQLi (SQL injection) attack<br/>
 ![image](https://user-images.githubusercontent.com/70287409/122853262-8656bb80-d344-11eb-8042-c0c2720318f3.png)
 <br/><br/>
 Using a simple sql injection payload
-> ' OR '1' = '1
-> https://ctflearn.com/lab/SQL-Injection-Part-1
+> ' OR '1' = '1  
+> https://ctflearn.com/lab/SQL-Injection-Part-1  
 > This site provides clear explanation on basics of SQL injection techniques
 
 <br/><br/>
